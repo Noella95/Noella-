@@ -1,11 +1,11 @@
 ### Noella 
 ### Rose
 I really like using phone.
-#shopping card
+# shopping card list 
 
 -rice
--apple
--meat
+- apple
+- meat
 
 don't forget to buy **oil**
 
