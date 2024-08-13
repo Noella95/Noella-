@@ -3,7 +3,7 @@
 I really like using phone.
 # shopping card list 
 
--rice
+- rice
 - apple
 - meat
 
